@@ -90,15 +90,6 @@ Example response:
 }
 ```
 
-## Learning Goals
-
-* Understand Docker images and containers
-* Learn Dockerfile and image layers
-* Manage Python dependencies with `uv`
-* Containerize a FastAPI application
-* Learn CI/CD with GitHub Actions
-* Understand the basics of deploying ML applications
-
 ## Status
 
 🚧 Work in Progress
